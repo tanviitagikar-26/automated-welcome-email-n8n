@@ -36,13 +36,13 @@ Send an Automated Welcome Email
 ---
 
 ##  Features
-🔹 Google Forms integration
-🔹 Google Sheets integration
-🔹 Automated workflow trigger
-🔹 Automatic email sending
-🔹 Personalized email content
-🔹 Dynamic use of form response data
-🔹 Reduces repetitive manual email work
+1. Google Forms integration
+2. Google Sheets integration
+3. Automated workflow trigger
+4. Automatic email sending
+5. Personalized email content
+6. Dynamic use of form response data
+7. Reduces repetitive manual email work
 
 ---
 
