@@ -1,4 +1,4 @@
-# 📧 Automated Welcome Email Workflow using n8n
+# Automated Welcome Email Workflow using n8n
 
 ##  Project Overview
 
